@@ -1,1 +1,6 @@
-Tambah Diubah nih
+<?php
+
+/* Testing */
+echo 'Tambah Diubah nih';
+
+?>
